@@ -56,7 +56,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url(/
 
 /*start of nav */
 .nav {
-  -webkit-backdrop-filter: blur(100px) brightness(100%);
+  backdrop-filter: blur(100px) brightness(100%);
   align-items: center;
   background-color: #00060c66 ;
   display: flex;
@@ -149,7 +149,7 @@ background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url(/
 @media screen and (max-width: 1000px){
 
   .nav {
-    -webkit-backdrop-filter: blur(100px) brightness(100%);
+    backdrop-filter: blur(100px) brightness(100%);
     align-items: center;
  
     background-color: #00060c66;

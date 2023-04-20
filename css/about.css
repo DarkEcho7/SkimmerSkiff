@@ -82,7 +82,7 @@ word-break: break-word;
    
    /*start of nav */
    .nav {
-     -webkit-backdrop-filter: blur(100px) brightness(100%);
+     backdrop-filter: blur(100px) brightness(100%);
      align-items: center;
      background-color: #00060c66 ;
      display: flex;
@@ -183,7 +183,7 @@ font-size: 20px;
    @media screen and (max-width: 1000px){
    
      .nav {
-       -webkit-backdrop-filter: blur(100px) brightness(100%);
+       backdrop-filter: blur(100px) brightness(100%);
        align-items: center;
     
        background-color: #00060c66;
@@ -461,9 +461,7 @@ font-size: 20px;
   justify-content: center;
 }
 
-@media screen and (max-width: 1000px){
-  .group-631782{}
-}
+
 
 
 .group-631778 {

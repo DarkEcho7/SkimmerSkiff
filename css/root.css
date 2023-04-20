@@ -139,7 +139,7 @@
     font-weight: 500;
     font-style: normal;
   }
-  @media only screen and (max-width: 900px)
+  @media only screen and (min-width: 900px)
   {
     .orbitron-medium-desert-storm-54px{
       font-size:  28px !important;
