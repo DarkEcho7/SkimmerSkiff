@@ -229,7 +229,7 @@ font-size: 20px;
      background-position: center;
      background-repeat: no-repeat;
      overflow: hidden;
-     background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url(/images/hero\ image.png);
+     background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url(/images/hero\image.png);
    }
    .frame-3{
      height:4rem;
